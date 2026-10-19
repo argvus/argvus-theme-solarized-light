@@ -31,7 +31,7 @@ background = "#FDF6E3"
 calendar_css = "solarized-light"
 
 # Removable devices CSS variant (may differ from theme id)
-removable_devices_css = "solarized-light"
+removable_devices_css = "argvus-light"
 
 [aliases]
 # Legacy theme ID mappings (if any) - format: "old-id" = "solarized-light"
